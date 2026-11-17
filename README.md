@@ -72,7 +72,7 @@ This continuous feedback loop monitors application health, enforces cost control
 
 ---
 
-![Architectre](image.png)
+![Architectre](architecture.png)
 
 ---
 
